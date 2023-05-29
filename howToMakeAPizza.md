@@ -17,5 +17,7 @@ this is commit 1 .... prooving
 
 1. Mezclar Agua, Harina y huevos hasta lograr una masa consistente y homogenea. 
 2. Hacer salsa de tomate licuardo tomates, cebollas y sal. 
+3. MOldear maza en forma de platillo encima de una mesa de madera con poca friccion. 
+
 
 
